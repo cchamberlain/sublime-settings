@@ -1,0 +1,10 @@
+[
+{
+    "class": "tabset_control",
+    "tab_height": 30
+},
+{
+  "class": "sidebar_tree",
+  "indent_offset": 15, //original is 17
+}
+]
